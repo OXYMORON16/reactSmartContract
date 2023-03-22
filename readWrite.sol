@@ -7,7 +7,7 @@ contract RemixContract {
     string message;
 
     constructor()  {
-        message = "Hello Nikhil";
+        message = "Hello Aashrya";
     }
 
     function getMessage() public view returns(string memory) {
